@@ -3,7 +3,7 @@
 <p>A dark, neutral color scheme</p>
 
 ## Installation
-1. Copy the contents of **mountain.yml** in your alacritty.yml (More info about alacritty config [here](https://github.com/alacritty/alacritty#configuration))
+1. Copy the contents of [mountain.yml](/alacritty.yml) into your alacritty.yml (More info on configuring alacritty can be found [here](https://github.com/alacritty/alacritty#configuration))
 2. If `live_config_reload` is set to `true` the colors are applied immediately, otherwise Alacritty must be restarted.
 
 ## Screenshots
