@@ -11,7 +11,7 @@
 <a href="/img/alacritty.png"><img src="/img/alacritty.png" height="640px"></a>
 </p>
 
-The above screenshot uses the awesome [Cascida Code](https://github.com/microsoft/cascadia-code) font and the fetch tool : [pfetch](https://github.com/dylanaraps/pfetch).
+The above screenshot uses the awesome [Cascida Code](https://github.com/microsoft/cascadia-code) font and the fetch tool [pfetch](https://github.com/dylanaraps/pfetch).
 
 ---
 
